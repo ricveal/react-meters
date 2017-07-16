@@ -1,0 +1,8 @@
+{
+  "name": "react-meters",
+  "version": "0.1.0",
+  "description": "React components to build interactive dashboards with different visual meters.",
+  "main": "index.js",
+  "author": "ricveal",
+  "license": "MIT"
+}
