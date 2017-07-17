@@ -1,0 +1,17 @@
+{
+  "presets": [
+    "react","stage-0","latest"
+  ],
+  "plugins": ["transform-class-properties"],
+  "env": {
+    "lib-dir": {
+      "plugins": ["transform-es2015-modules-commonjs"]
+    },
+    "webpack": {
+      "plugins": ["transform-es2015-modules-commonjs"]
+    },
+    "test": {
+      "plugins": ["transform-es2015-modules-commonjs"]
+    }
+  }
+}
